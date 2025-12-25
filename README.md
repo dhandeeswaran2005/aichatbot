@@ -55,39 +55,22 @@ Response Processing
 Chatbot Output to User
 
 ## Outputs
-✅ Example Outputs
+The home page of the AICHATBOT
 
-Product Price Comparisons
+<img width="1916" height="957" alt="Screenshot 2025-12-25 215006" src="https://github.com/user-attachments/assets/d6c82749-c551-49de-abde-bec39243b61c" />
 
-Latest News Results
 
-Website Data Summaries
+The extracted information by web Scraping
+<img width="1919" height="914" alt="Screenshot 2025-12-25 215036" src="https://github.com/user-attachments/assets/1355fef1-f169-4bd2-aac1-845afb5621ab" />
 
-Real-Time Information Responses
 
-✅ Visualization Options (Optional)
+The final Scraped data
+<img width="1919" height="912" alt="Screenshot 2025-12-25 215750" src="https://github.com/user-attachments/assets/6bba457a-577f-45e2-ab15-38ddd4813a6b" />
 
-Tabular scraped results
 
-JSON structured data
 
-UI chat-based interface
 
-🧠 Impact & Applications
-
-This chatbot significantly enhances information accessibility by:
-
-Automating manual browsing
-
-Providing accurate and instant responses
-
-Supporting research, shopping, analytics, and knowledge retrieval
-
-Enabling smart assistants for business, education, and personal use
-
-It contributes to smart automation, intelligent data utilization, and AI-assisted browsing experiences.
-
-🛠️ Requirements
+## Requirements
 🔧 System Requirements
 
 64-bit OS (Windows / Linux recommended)
