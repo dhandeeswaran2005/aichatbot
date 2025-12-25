@@ -1,8 +1,8 @@
-AICHATBOT USING WEB SCRAPING
+## AICHATBOT USING WEB SCRAPING
 
 An intelligent chatbot system that retrieves real-time information from websites using web scraping and AI-based natural language processing, enabling users to query data seamlessly and get instant, meaningful responses.
 
-📌 About the Project
+## About the Project
 
 The AI-Driven Web Scraping Chatbot is designed to extract live information from the internet and present it in a conversational format. Unlike traditional search systems, this chatbot directly scrapes relevant websites, processes the data, and returns precise answers.
 
@@ -30,7 +30,7 @@ Custom domain-specific data
 
 It enables automation, intelligent assistance, and efficient data retrieval in a privacy-aware and scalable manner.
 
-🚀 Key Features
+## Key Features
 
 ✔️ AI-powered chatbot interaction
 ✔️ Real-time web scraping capabilities
@@ -54,7 +54,7 @@ Response Processing
      ↓
 Chatbot Output to User
 
-📊 Outputs
+## Outputs
 ✅ Example Outputs
 
 Product Price Comparisons
@@ -92,7 +92,7 @@ It contributes to smart automation, intelligent data utilization, and AI-assiste
 
 64-bit OS (Windows / Linux recommended)
 
-🐍 Programming
+## Programming
 
 Python 3.6+
 
@@ -405,7 +405,7 @@ input.addEventListener("keypress", e => {
 
 
 
-📚 Libraries & Frameworks
+## Libraries & Frameworks
 
 Requests / Selenium / BeautifulSoup
 
@@ -423,7 +423,7 @@ Git (Version Control)
 
 Google Colab / Jupyter / VS Code
 
-📚 References
+## References
 
 Web Scraping Documentation (BeautifulSoup / Selenium)
 
