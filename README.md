@@ -1,4 +1,4 @@
-🤖 AI-Driven Web Scraping Chatbot
+AICHATBOT USING WEB SCRAPING
 
 An intelligent chatbot system that retrieves real-time information from websites using web scraping and AI-based natural language processing, enabling users to query data seamlessly and get instant, meaningful responses.
 
